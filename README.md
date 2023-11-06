@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvaldez0290&show_icons=true&theme=synthwave)](https://github.com/gvaldez0290/github-readme-stats)
+[![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvaldez0290&show_icons=true&theme=radial)](https://github.com/gvaldez0290/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvaldez0290&show_icons=true&theme=radical)](https://github.com/gvaldez0290/github-readme-stats)
 
 <!--
