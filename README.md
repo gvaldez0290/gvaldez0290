@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+[![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvaldez0290)](https://github.com/gvaldez0290/github-readme-stats)
 <!--
 **gvaldez0290/gvaldez0290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
