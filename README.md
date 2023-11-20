@@ -3,7 +3,7 @@
 [![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvaldez0290&show_icons=true&theme=gotham)](https://github.com/gvaldez0290/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvaldez0290&show_icons=true&theme=gotham&langs_count=8&layout=compact)](https://github.com/gvaldez0290/github-readme-stats)
 <!--
-**gvaldez0290/gvaldez0290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gvaldez0290/gvaldez0290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 
 Here are some ideas to get you started:
